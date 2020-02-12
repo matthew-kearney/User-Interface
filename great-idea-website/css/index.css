@@ -1,4 +1,4 @@
-/*hello*/
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -88,16 +88,24 @@ nav .logo{
   display:inline-block;
 }
 #bottom {
-  
+  width: 100%;
+  margin: 0;
 }
-#bottom .vision {
 
-
+.product {
+  width: 20%;
+  display:inline-block;
+  margin: 0;
 }
-#bottom .product {
-  
+.service {
+  width: 20%;
+  display:inline-block;
+  margin: 0;
 }
-#bottom .service {
+.vision {
+  width: 20%;
+  display:inline-block;
+  margin: 0;
+}
 <!doctype html>
-
 
