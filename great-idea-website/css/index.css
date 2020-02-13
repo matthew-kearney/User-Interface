@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 nav {
-  letter-spacing:7px;
+  letter-spacing:5px;
    
 }
 nav .logo{
@@ -75,6 +75,19 @@ nav .logo{
   
   
 }
+#IOD {
+  font-size: 30px;
+  width: 100%;
+}
+#IOD h1{
+  display: inline-block;
+  margin: 20%;
+}
+#IOD .img2 {
+  display: inline-block;
+  margin: 0%;
+}
+
 #top{
   width: 100%;
 }
@@ -89,23 +102,23 @@ nav .logo{
 }
 #bottom {
   width: 100%;
-  margin: 0;
+  
 }
 
 .product {
   width: 20%;
   display:inline-block;
-  margin: 0;
+  
 }
 .service {
   width: 20%;
   display:inline-block;
-  margin: 0;
+  
 }
 .vision {
   width: 20%;
   display:inline-block;
-  margin: 0;
+  
 }
 <!doctype html>
 
