@@ -1,3 +1,4 @@
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -18,7 +19,7 @@ menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
 	padding: 0;
-	border: 0;
+	border:3px solid grey;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -64,3 +65,60 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+nav {
+  letter-spacing:5px;
+   
+}
+nav .logo{
+  display:inline-block;
+  width:1%;
+  
+  
+}
+#IOD {
+  font-size: 30px;
+  width: 100%;
+}
+#IOD h1{
+  display: inline-block;
+  margin: 20%;
+}
+#IOD .img2 {
+  display: inline-block;
+  margin: 0%;
+}
+
+#top{
+  width: 100%;
+}
+.about{
+  width:40%;
+  display:inline-block;
+}
+.features{
+  width: 40%;
+  margin:0;
+  display:inline-block;
+}
+#bottom {
+  width: 100%;
+  
+}
+
+.product {
+  width: 20%;
+  display:inline-block;
+  
+}
+.service {
+  width: 20%;
+  display:inline-block;
+  
+}
+.vision {
+  width: 20%;
+  display:inline-block;
+  
+}
+<!doctype html>
+
